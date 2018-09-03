@@ -128,14 +128,19 @@ img{
 
 #filter .filter_wrapper select {
     width: 300px;
-    height: 40px;
+    /*height: 40px;*/
     position: relative;
     font-size: 17px;
-    padding: 0 20px 0 30px;
+    padding: 6px 20px 10px 30px;
     border-color: transparent;
     -webkit-appearance: none;
     -moz-appearance: none;
     background: url("img/triangle.png") right center no-repeat #fff;
+    cursor: pointer;
+}
+
+#filter .filter_wrapper select:nth-child(1){
+    color: #ff5a6a;
 }
 
 #filter .filter_wrapper select:nth-child(1){
@@ -197,11 +202,6 @@ img{
     padding: 10px 0;
 }
 
-.price_list .price_list_wrapper .price_block h1 img {
-    width: 17px;
-    height: 20px;
-}
-
 .price_list .price_list_wrapper .price_block p {
     font-size: 17px;
     color: #fff;
@@ -236,12 +236,12 @@ img{
     font-weight: bold;
 }
 
-
 .price_list .price_list_wrapper .discount_block .btn {
     width: 43%;
     float: left;
     height: inherit;
 }
+
 .price_list .price_list_wrapper .discount_block button {
     border: none;
     background-color: #ff5a6a;
@@ -252,4 +252,20 @@ img{
     padding: 10px 25px;
     letter-spacing: 2px;
     margin: 22px 0 0 30px;
+    transition: 0.3s;
+}
+
+.price_list .price_list_wrapper .discount_block button:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.img_white_size {
+    width: 17px;
+    height: 20px;
+}
+
+.img_green_size {
+    width: 14px;
+    height: 18px;
 }
