@@ -49,30 +49,44 @@
       <file leaf-file-name="priceList.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/priceList.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="669">
-              <caret line="61" column="104" lean-forward="false" selection-start-line="61" selection-start-column="104" selection-end-line="61" selection-end-column="104" />
-              <caret line="77" column="104" lean-forward="false" selection-start-line="77" selection-start-column="104" selection-end-line="77" selection-end-column="104" />
-              <caret line="93" column="105" lean-forward="false" selection-start-line="93" selection-start-column="105" selection-end-line="93" selection-end-column="105" />
-              <folding />
+            <state relative-caret-position="646">
+              <caret line="98" column="145" lean-forward="false" selection-start-line="98" selection-start-column="145" selection-end-line="98" selection-end-column="145" />
+              <folding>
+                <element signature="e#2960#2966#0" expanded="true" />
+                <element signature="e#3073#3079#0" expanded="true" />
+                <element signature="e#3702#3708#0" expanded="true" />
+                <element signature="e#3816#3822#0" expanded="true" />
+                <element signature="e#4446#4452#0" expanded="true" />
+                <element signature="e#4560#4566#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="1570">
+              <caret line="322" column="0" lean-forward="true" selection-start-line="322" selection-start-column="0" selection-end-line="322" selection-end-column="0" />
+              <folding>
+                <element signature="e#1705#3317#0" expanded="false" />
+                <element signature="e#3371#8012#0" expanded="false" />
+                <element signature="n#!!block;n#set_prices#0" expanded="false" />
+                <element signature="n#!!block;n#get_prices#0" expanded="false" />
+                <element signature="n#!!block;n#get_discount_values#0" expanded="false" />
+                <element signature="n#!!block;n#discount_amount#0" expanded="false" />
+                <element signature="n#!!block;n#display_price#0" expanded="false" />
+                <element signature="n#!!block;n#get_discounted_values#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="133" column="14" lean-forward="false" selection-start-line="133" selection-start-column="14" selection-end-line="133" selection-end-column="14" />
+            <state relative-caret-position="17">
+              <caret line="133" column="13" lean-forward="false" selection-start-line="133" selection-start-column="13" selection-end-line="133" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -105,9 +119,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/money.js" />
+        <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/priceList.html" />
         <option value="$PROJECT_DIR$/main.js" />
-        <option value="$PROJECT_DIR$/styles.css" />
       </list>
     </option>
   </component>
@@ -143,7 +157,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,6 +174,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,27 +218,29 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60749000" />
+    <option name="totallyTimeSpent" value="65513000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07165437" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13751318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07165437" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -241,9 +257,56 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/priceList.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="53" lean-forward="true" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
+          <folding>
+            <element signature="e#2960#2966#0" expanded="true" />
+            <element signature="e#3073#3079#0" expanded="true" />
+            <element signature="e#3702#3708#0" expanded="true" />
+            <element signature="e#3816#3822#0" expanded="true" />
+            <element signature="e#4446#4452#0" expanded="true" />
+            <element signature="e#4560#4566#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="133" column="13" lean-forward="false" selection-start-line="133" selection-start-column="13" selection-end-line="133" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="15" lean-forward="false" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
+          <folding>
+            <element signature="e#1705#3317#0" expanded="false" />
+            <element signature="e#3371#8012#0" expanded="false" />
+            <element signature="n#!!block;n#set_prices#0" expanded="false" />
+            <element signature="n#!!block;n#get_prices#0" expanded="false" />
+            <element signature="n#!!block;n#get_discount_values#0" expanded="false" />
+            <element signature="n#!!block;n#discount_amount#0" expanded="false" />
+            <element signature="n#!!block;n#display_price#0" expanded="false" />
+            <element signature="n#!!block;n#get_discounted_values#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/priceList.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="36" column="31" lean-forward="false" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
-          <folding />
+          <folding>
+            <element signature="e#2960#2966#0" expanded="true" />
+            <element signature="e#3073#3079#0" expanded="true" />
+            <element signature="e#3702#3708#0" expanded="true" />
+            <element signature="e#3816#3822#0" expanded="true" />
+            <element signature="e#4446#4452#0" expanded="true" />
+            <element signature="e#4560#4566#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -251,7 +314,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1513">
           <caret line="89" column="39" lean-forward="true" selection-start-line="89" selection-start-column="39" selection-end-line="89" selection-end-column="39" />
-          <folding />
+          <folding>
+            <element signature="e#1705#3317#0" expanded="false" />
+            <element signature="e#3371#8012#0" expanded="false" />
+            <element signature="n#!!block;n#set_prices#0" expanded="false" />
+            <element signature="n#!!block;n#get_prices#0" expanded="false" />
+            <element signature="n#!!block;n#get_discount_values#0" expanded="false" />
+            <element signature="n#!!block;n#discount_amount#0" expanded="false" />
+            <element signature="n#!!block;n#display_price#0" expanded="false" />
+            <element signature="n#!!block;n#get_discounted_values#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -262,29 +334,122 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="133" column="13" lean-forward="false" selection-start-line="133" selection-start-column="13" selection-end-line="133" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/priceList.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="61" column="104" lean-forward="false" selection-start-line="61" selection-start-column="104" selection-end-line="61" selection-end-column="104" />
-          <caret line="77" column="104" lean-forward="false" selection-start-line="77" selection-start-column="104" selection-end-line="77" selection-end-column="104" />
-          <caret line="93" column="105" lean-forward="false" selection-start-line="93" selection-start-column="105" selection-end-line="93" selection-end-column="105" />
-          <folding />
+        <state relative-caret-position="397">
+          <caret line="70" column="22" lean-forward="true" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+          <folding>
+            <element signature="e#2960#2966#0" expanded="true" />
+            <element signature="e#3073#3079#0" expanded="true" />
+            <element signature="e#3702#3708#0" expanded="true" />
+            <element signature="e#3816#3822#0" expanded="true" />
+            <element signature="e#4446#4452#0" expanded="true" />
+            <element signature="e#4560#4566#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="650">
+          <caret line="315" column="0" lean-forward="false" selection-start-line="315" selection-start-column="0" selection-end-line="315" selection-end-column="0" />
+          <folding>
+            <element signature="e#1705#3317#0" expanded="false" />
+            <element signature="e#3371#8012#0" expanded="false" />
+            <element signature="n#!!block;n#set_prices#0" expanded="false" />
+            <element signature="n#!!block;n#get_prices#0" expanded="false" />
+            <element signature="n#!!block;n#get_discount_values#0" expanded="false" />
+            <element signature="n#!!block;n#discount_amount#0" expanded="false" />
+            <element signature="n#!!block;n#display_price#0" expanded="false" />
+            <element signature="n#!!block;n#get_discounted_values#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/priceList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="31" lean-forward="false" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding>
+            <element signature="e#2960#2966#0" expanded="true" />
+            <element signature="e#3073#3079#0" expanded="true" />
+            <element signature="e#3702#3708#0" expanded="true" />
+            <element signature="e#3816#3822#0" expanded="true" />
+            <element signature="e#4446#4452#0" expanded="true" />
+            <element signature="e#4560#4566#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" column="39" lean-forward="true" selection-start-line="89" selection-start-column="39" selection-end-line="89" selection-end-column="39" />
+          <folding>
+            <element signature="e#1705#3317#0" expanded="false" />
+            <element signature="e#3371#8012#0" expanded="false" />
+            <element signature="n#!!block;n#set_prices#0" expanded="false" />
+            <element signature="n#!!block;n#get_prices#0" expanded="false" />
+            <element signature="n#!!block;n#get_discount_values#0" expanded="false" />
+            <element signature="n#!!block;n#discount_amount#0" expanded="false" />
+            <element signature="n#!!block;n#display_price#0" expanded="false" />
+            <element signature="n#!!block;n#get_discounted_values#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/money.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1071">
+          <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="133" column="14" lean-forward="false" selection-start-line="133" selection-start-column="14" selection-end-line="133" selection-end-column="14" />
+        <state relative-caret-position="17">
+          <caret line="133" column="13" lean-forward="false" selection-start-line="133" selection-start-column="13" selection-end-line="133" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/priceList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="98" column="145" lean-forward="false" selection-start-line="98" selection-start-column="145" selection-end-line="98" selection-end-column="145" />
+          <folding>
+            <element signature="e#2960#2966#0" expanded="true" />
+            <element signature="e#3073#3079#0" expanded="true" />
+            <element signature="e#3702#3708#0" expanded="true" />
+            <element signature="e#3816#3822#0" expanded="true" />
+            <element signature="e#4446#4452#0" expanded="true" />
+            <element signature="e#4560#4566#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1570">
+          <caret line="322" column="0" lean-forward="true" selection-start-line="322" selection-start-column="0" selection-end-line="322" selection-end-column="0" />
+          <folding>
+            <element signature="e#1705#3317#0" expanded="false" />
+            <element signature="e#3371#8012#0" expanded="false" />
+            <element signature="n#!!block;n#set_prices#0" expanded="false" />
+            <element signature="n#!!block;n#get_prices#0" expanded="false" />
+            <element signature="n#!!block;n#get_discount_values#0" expanded="false" />
+            <element signature="n#!!block;n#discount_amount#0" expanded="false" />
+            <element signature="n#!!block;n#display_price#0" expanded="false" />
+            <element signature="n#!!block;n#get_discounted_values#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
